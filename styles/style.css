@@ -1,5 +1,5 @@
 #navbar {
-	border:1px green solid;
+	
 	text-align:center;
 	margin-top:100px;
 
@@ -11,21 +11,16 @@ button {
 
 .vert {
 	background-color: black;
-	/*border: 1px green solid;*/
+	
 	
 }
 
-.highlight {
-	background-color: #333333;
-
-
-}
 
 #container {
 	width:800px;
 	height:800px;
 	margin: auto;
 	margin-top: 20px;
-	border:1px green solid;
+	
 	display:flex;
 }
