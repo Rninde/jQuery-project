@@ -1,0 +1,26 @@
+.grid {
+	display:flex;
+	
+}
+.vert {
+	height:50px;
+	width:50px;
+	background-color: black;
+	/*border: 1px green solid;*/
+	display: inline-block;
+	
+}
+
+.highlight {
+	background-color: #333333;
+
+
+}
+
+#container {
+	width:800px;
+	height:800px;
+	margin: auto;
+	margin-top: 200px;
+	border:1px green solid;
+}
